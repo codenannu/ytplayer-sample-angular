@@ -1,0 +1,7 @@
+html, body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+yt-video-player { display: block; width: 100%; height: 100%; }
